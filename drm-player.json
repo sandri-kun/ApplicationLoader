@@ -3,7 +3,7 @@
     "title": "New Update",
     "version": "1.1",
     "version_can_skip": "1.0",
-    "can_not_skip": true,
+    "can_not_skip": false,
     "url": "https://google.com",
     "text": "**New update available**\n- **Bug fixed**\n- **New UI app**\n Update **UI** smooth",
     "document": {
