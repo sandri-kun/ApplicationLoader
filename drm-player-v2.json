@@ -1,0 +1,28 @@
+{
+    "server_status": true,
+    "title": "New Update",
+    "version": "1.6.1",
+    "version_code": 56,
+    "version_code_can_skip": "56",
+    "url": "https://play.google.com/store/apps/details?id=org.drm.player",
+    "text": "New Update",
+    "document": {
+        "file_name": "Application",
+        "size": "4000000",
+        "date": 1689478502507
+    },
+
+    "app_open_ads_count": 999,
+    "enable_app_open_ads": false,
+
+    "enable_native_ads": false,
+    "enable_interstitial_ads": false,
+    "enable_banner_ads": false,
+    "enable_rewarded_ads": false,
+
+    "enable_ads": false,
+    "enable_log": false,
+
+    "side_note_text": "We truly appreciate your support and are excited to bring you even more innovative features to enhance your experience in the future.",
+    "side_note_type": "telegram"
+}
