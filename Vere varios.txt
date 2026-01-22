@@ -1,0 +1,61 @@
+
+Playlist
+Cristian Ortega
+15 ene a las 21:58
+Astra Servidor ocasional :
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,HBO
+http://192.187.102.26:80/playlistfinder/playlistfinder/1.m3u8
+#EXTINF:-1,HBO 2
+http://192.187.102.26:80/playlistfinder/playlistfinder/2.m3u8
+#EXTINF:-1,HBO FAMILY
+http://192.187.102.26:80/playlistfinder/playlistfinder/3.m3u8
+#EXTINF:-1,HBO MUNDI
+http://192.187.102.26:80/playlistfinder/playlistfinder/4.m3u8
+#EXTINF:-1,HBO PLUS
+http://192.187.102.26:80/playlistfinder/playlistfinder/5.m3u8
+#EXTINF:-1,HBO POP
+http://192.187.102.26:80/playlistfinder/playlistfinder/6.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://192.187.102.26:80/playlistfinder/playlistfinder/7.m3u8
+#EXTINF:-1,HBO XTREME
+http://192.187.102.26:80/playlistfinder/playlistfinder/8.m3u8
+#EXTINF:-1,SONY
+http://192.187.102.26:80/playlistfinder/playlistfinder/9.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://192.187.102.26:80/playlistfinder/playlistfinder/10.m3u8
+#EXTINF:-1,USA
+http://192.187.102.26:80/playlistfinder/playlistfinder/11.m3u8
+#EXTINF:-1,WARNER CHANNEL
+http://192.187.102.26:80/playlistfinder/playlistfinder/12.m3u8
+#EXTINF:-1,FX
+http://192.187.102.26:80/playlistfinder/playlistfinder/13.m3u8
+#EXTINF:-1,TNT SPORTS PREMIUM CL
+http://192.187.102.26:80/playlistfinder/playlistfinder/14.m3u8
+#EXTINF:-1,TNT SPORTS 2
+http://192.187.102.26:80/playlistfinder/playlistfinder/15.m3u8
+#EXTINF:-1,ESPN
+http://192.187.102.26:80/playlistfinder/playlistfinder/16.m3u8
+#EXTINF:-1,ESPN 2
+http://192.187.102.26:80/playlistfinder/playlistfinder/17.m3u8
+#EXTINF:-1,ESPN 3
+http://192.187.102.26:80/playlistfinder/playlistfinder/18.m3u8
+#EXTINF:-1,ESPN 4
+http://192.187.102.26:80/playlistfinder/playlistfinder/19.m3u8
+#EXTINF:-1,ESPN 6
+http://192.187.102.26:80/playlistfinder/playlistfinder/20.m3u8
+#EXTINF:-1,ESPN 7
+http://192.187.102.26:80/playlistfinder/playlistfinder/21.m3u8
+#EXTINF:-1,ESPN PREMIUM
+http://192.187.102.26:80/playlistfinder/playlistfinder/22.m3u8
+#EXTINF:-1,DIRECTV SPORTS
+http://192.187.102.26:80/playlistfinder/playlistfinder/23.m3u8
+#EXTINF:-1,DIRECTV SPORTS 2
+http://192.187.102.26:80/playlistfinder/playlistfinder/24.m3u8
+#EXTINF:-1,DSPORTS+
+http://192.187.102.26:80/playlistfinder/playlistfinder/25.m3u8
+#EXTINF:-1,DSPORTS FIGHT
+http://192.187.102.26:80/playlistfinder/playlistfinder/26.m3u8
+Mira contenido interesante
+Inicia sesión en tu cuenta y sigue a creadores y comunidades populares
