@@ -1,0 +1,6 @@
+#EXTINF:-1 group-type="live" tvg-logo="https://cdnjkt913.transvision.co.id:1003/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="M o v i e",HBO
+#KODIPROP:inputstream.adaptive.manifest_type=dash-cbcs
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=416b74507661346f6164737379443668:47743358367765396437354b30774244
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
